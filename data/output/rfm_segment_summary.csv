@@ -1,0 +1,8 @@
+customer_segment,customers,avg_recency,avg_frequency,avg_monetary,total_revenue
+Loyal Customers,1226,25.97,18.55,9938.18,12184210.85
+At Risk,880,277.12,6.53,2524.64,2221679.29
+Hibernating,2045,411.56,1.49,555.17,1135329.16
+Potential Loyalists,642,13.34,3.78,1585.51,1017898.55
+Need Attention,433,56.15,4.56,1773.19,767793.42
+About to Sleep,558,56.99,1.7,691.45,385828.79
+Promising,94,14.87,1.0,326.48,30689.11
